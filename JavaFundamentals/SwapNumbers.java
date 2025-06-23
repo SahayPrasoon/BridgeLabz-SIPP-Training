@@ -1,10 +1,10 @@
-//CP - Create a program to swap two numbers
-Hint =>
-1. Create a variable number1 and take user input.
-2. Create a variable number2 and take user input.
-3. Swap number1 and number2 and print the swapped output
-I/P => number1, number2
-O/P => The swapped numbers are ___ and ___
+////CP - Create a program to swap two numbers
+//Hint =>
+//1. Create a variable number1 and take user input.
+//2. Create a variable number2 and take user input.
+//3. Swap number1 and number2 and print the swapped output
+//I/P => number1, number2
+//O/P => The swapped numbers are ___ and ___
 
 import java.util.Scanner;
 
