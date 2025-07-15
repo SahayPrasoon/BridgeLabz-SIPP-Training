@@ -46,9 +46,10 @@
 - [04 - Object Modeling and Class Diagram]([https://github.com/your-repo-link/OOPS/tree/main/ObjectModeling](https://github.com/SahayPrasoon/BridgeLabz-SIPP-Training/tree/OOPS/class_sequence_diagram))  
 - [05 - Inheritance]([https://github.com/your-repo-link/OOPS/tree/main/Inheritance](https://github.com/SahayPrasoon/BridgeLabz-SIPP-Training/tree/OOPS/Inheritance))  
 
-### 📁 Data-Structures
+### 📁 Data-Structures ([https://github.com/SahayPrasoon/BridgeLabz-SIPP-Training/tree/DSA])
 
 - [01 - LinkedList]([https://github.com/your-repo-link/Data-Structures/tree/main/LinkedList](https://github.com/SahayPrasoon/BridgeLabz-SIPP-Training/tree/DSA/LinkedList))  
 - [02 - Stack, Queue, HashMap]([https://github.com/your-repo-link/Data-Structures/tree/main/StackQueueHashmap](https://github.com/SahayPrasoon/BridgeLabz-SIPP-Training/tree/DSA/Stack%2CQueue%2CHashMap%2CHashing))  
-- [03 - Sorting Algorithms]([https://github.com/your-repo-link/Data-Structures/tree/main/SortingAlgorithms](https://github.com/SahayPrasoon/BridgeLabz-SIPP-Training/tree/DSA/Sorting_Algorithms)  
+- [03 - Sorting Algorithms]([https://github.com/your-repo-link/Data-Structures/tree/main/SortingAlgorithms](https://github.com/SahayPrasoon/BridgeLabz-SIPP-Training/tree/DSA/Sorting_Algorithms))  
+ 
 - [06 - Runtime Analysis & Big-O]([https://github.com/your-repo-link/Data-Structures/tree/main/RuntimeAnalysis](https://github.com/SahayPrasoon/BridgeLabz-SIPP-Training/tree/DSA/TimeComplexity))  
