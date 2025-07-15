@@ -39,7 +39,7 @@
 
 ## 📂 Assignments and File Links
 
-### 📁 OOPS
+### 📁 CORE JAVA ([https://github.com/SahayPrasoon/BridgeLabz-SIPP-Training/tree/CoreJava])
 ## 📘 Week 01 - Core Programming
 
 ### ✅ Completed Assignments
