@@ -39,7 +39,7 @@
 
 ## 📂 Assignments and File Links
 
-### 📁 OOPS
+### 📁 OOPS ([https://github.com/SahayPrasoon/BridgeLabz-SIPP-Training/tree/OOPS])
 - [01 - Class and Object]([https://github.com/your-repo-link/Core-Java/tree/main/ClassAndObject](https://github.com/your-repo-link/Core-Java/tree/main/ClassAndObject))  
 - [02 - Constructors, Access Modifiers, Variables]([https://github.com/your-repo-link/Core-Java/tree/main/ConstructorsAndModifiers](https://github.com/SahayPrasoon/BridgeLabz-SIPP-Training/tree/OOPS/Constructor))  
 - [03 - this, static, final, instanceof]([https://github.com/your-repo-link/Core-Java/tree/main/KeywordsPractice](https://github.com/SahayPrasoon/BridgeLabz-SIPP-Training/tree/OOPS/Keywords))  
@@ -50,6 +50,5 @@
 
 - [01 - LinkedList]([https://github.com/your-repo-link/Data-Structures/tree/main/LinkedList](https://github.com/SahayPrasoon/BridgeLabz-SIPP-Training/tree/DSA/LinkedList))  
 - [02 - Stack, Queue, HashMap]([https://github.com/your-repo-link/Data-Structures/tree/main/StackQueueHashmap](https://github.com/SahayPrasoon/BridgeLabz-SIPP-Training/tree/DSA/Stack%2CQueue%2CHashMap%2CHashing))  
-- [03 - Sorting Algorithms]([https://github.com/your-repo-link/Data-Structures/tree/main/SortingAlgorithms](https://github.com/SahayPrasoon/BridgeLabz-SIPP-Training/tree/DSA/Sorting_Algorithms))  
-- [04 & 05 - Linear Search & Binary Search](https://github.com/your-repo-link/Data-Structures/tree/main/SearchAlgorithms)  
+- [03 - Sorting Algorithms]([https://github.com/your-repo-link/Data-Structures/tree/main/SortingAlgorithms](https://github.com/SahayPrasoon/BridgeLabz-SIPP-Training/tree/DSA/Sorting_Algorithms)  
 - [06 - Runtime Analysis & Big-O]([https://github.com/your-repo-link/Data-Structures/tree/main/RuntimeAnalysis](https://github.com/SahayPrasoon/BridgeLabz-SIPP-Training/tree/DSA/TimeComplexity))  
