@@ -39,6 +39,20 @@
 
 ## 📂 Assignments and File Links
 
+### 📁 OOPS
+## 📘 Week 01 - Core Programming
+
+### ✅ Completed Assignments
+
+| No. | Topic                   | Submission Link       |
+|-----|-------------------------|------------------------|
+| 01  | Java Programming Elements | ([https://github.com/SahayPrasoon/BridgeLabz-SIPP-Training/tree/CoreJava/JavaFundamentals])   |
+| 02  | Java Control Flows       | ([https://github.com/SahayPrasoon/BridgeLabz-SIPP-Training/tree/CoreJava/Control_Flows])   |
+| 03  | Java Arrays              | ([https://github.com/SahayPrasoon/BridgeLabz-SIPP-Training/tree/CoreJava/Arrays])   |
+| 05  | Java String              | ([https://github.com/SahayPrasoon/BridgeLabz-SIPP-Training/tree/CoreJava/Strings])   |
+| 04  | Java Methods             | ([https://github.com/SahayPrasoon/BridgeLabz-SIPP-Training/tree/CoreJava/Methods])   |
+
+
 ### 📁 OOPS ([https://github.com/SahayPrasoon/BridgeLabz-SIPP-Training/tree/OOPS])
 - [01 - Class and Object]([https://github.com/your-repo-link/Core-Java/tree/main/ClassAndObject](https://github.com/your-repo-link/Core-Java/tree/main/ClassAndObject))  
 - [02 - Constructors, Access Modifiers, Variables]([https://github.com/your-repo-link/Core-Java/tree/main/ConstructorsAndModifiers](https://github.com/SahayPrasoon/BridgeLabz-SIPP-Training/tree/OOPS/Constructor))  
